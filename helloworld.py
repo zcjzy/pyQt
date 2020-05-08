@@ -6,5 +6,6 @@ if __name__ == '__main__':
     w=QWidget()
     w.resize(600,300)
     w.move(700,400)
+
     w.show()
     sys.exit(app.exec_())
